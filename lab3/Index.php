@@ -15,10 +15,15 @@
 	</li>
 
 </ul>
+
 <?php include_once("footer.php"); ?>
-<li>
+	<li>
 		<a href="/lab3/add_product.php">them san pham</a>
 	</li>
+	<li>
+		<a href="/lab3/add_product.php">them san pham</a>
+	</li>
+	
 
 
 
